@@ -1,6 +1,6 @@
-# Luckey tickets probability 
+# Lucky tickets probability 
 
-Calculates luckey ticket probability. 
+Calculates lucky ticket probability. 
 
 Criteria: sums of first and last halves of digits of the ticket number must be equal.
 
